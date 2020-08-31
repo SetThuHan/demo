@@ -1,4 +1,5 @@
-{'id': '59744e2ada2e0076a0eb41bb',
+{'meta': {'code': 200, 'requestId': '5f4c3325fc4b672a303ebe1f'},
+ 'response': {'venues': [{'id': '59744e2ada2e0076a0eb41bb',
     'name': 'Kyarlay Baby Store',
     'location': {'address': 'Waizayanta Road',
      'lat': 16.836912,
@@ -213,4 +214,4 @@
        'suffix': '.png'},
       'primary': True}],
     'referralId': 'v-1598829147',
-    'hasPerk': False}
+    'hasPerk': False}]}}
